@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Weatheria App",
+    "intro": "Simple weather app using live weather data from openweathermap API.",
+    "body": " In this project I wanted to learn how to make apps using Swift. Instead of inventing an app, I wanted to try and see how hard would it be to implement API into an iOS app.",
+    "slug": "weatheria-app",
+    "previewUrl": "",
+    "sourceUrl": "https://github.com/DandunAdi/Weatheria-iOS13",
+    "thumbnail": {
+      "url": "/uploads/weather_app.jpg"
+    },
+    "tags": [
+      {
+        "id": 1,
+        "title": "MOBILE DEVELOPMENT"
+      },
+      {
+        "id": 2,
+        "title": "UI DESIGN"
+      },
+      {
+        "id": 3,
+        "title": "iOS"
+      }
+    ],
+    "techStack": [
+      {
+        "id": 1,
+        "name": "SWIFT"
+      },
+      {
+        "id": 2,
+        "name": "UIKIT"
+      },
+      {
+        "id": 3,
+        "name": "STORYBOARD"
+      },
+      {
+        "id": 4,
+        "name": "OPENWEATHERMAP API"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "The Red Planet App",
+    "intro": "An ios app where you can check mars's weather, gallery, and latest news.",
+    "body": "",
+    "slug": "the-red-planet-app",
+    "previewUrl": "",
+    "sourceUrl": "https://github.com/DandunAdi/TheRedPlanet",
+    "thumbnail": {
+      "url": "/uploads/mars_app.jpg"
+    },
+    "tags": [
+      {
+        "id": 1,
+        "title": "MOBILE DEVELOPMENT"
+      },
+      {
+        "id": 2,
+        "title": "UI DESIGN"
+      },
+      {
+        "id": 3,
+        "title": "iOS"
+      }
+    ],
+    "techStack": [
+      {
+        "id": 1,
+        "name": "SWIFT"
+      },
+      {
+        "id": 2,
+        "name": "UIKIT PROGRAMMATICALLY"
+      },
+      {
+        "id": 4,
+        "name": "NASA API"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "My Personal Website",
+    "intro": "Fully responsive website build using React for my personal uses.",
+    "body": "\nWhenever I want to share my work, thoughts, tutorial or anything to the world, this website can be my medium to achieve that goals.",
+    "slug": "my-personal-app",
+    "previewUrl": "",
+    "sourceUrl": "",
+    "thumbnail": {
+      "url": "/uploads/dandun_xyz.jpg"
+    },
+    "tags": [
+      {
+        "id": 1,
+        "title": "WEB DEVELOPMENT"
+      },
+      {
+        "id": 2,
+        "title": "REACT"
+      },
+      {
+        "id": 3,
+        "title": "UI DESIGN"
+      }
+    ],
+    "techStack": [
+      {
+        "id": 1,
+        "name": "REACT"
+      },
+      {
+        "id": 2,
+        "name": "CSS GRID & FLEXBOX"
+      },
+      {
+        "id": 3,
+        "name": "FRAMER MOTION"
+      },
+      {
+        "id": 4,
+        "name": "REACT ROUTER"
+      },
+      {
+        "id": 5,
+        "name": "STRAPI"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Warung Bungsu Landing Page",
+    "intro": "Warung Bungsu is a traditional yet modern restaurant in Tangerang.",
+    "body": "\n\nIn this project I'm using framer motion to create parallax effects and a little animation. With clean look design and is responsive on mobile and tablet screen.",
+    "slug": "warung-bungsu",
+    "previewUrl": "https://bungsu.netlify.app/",
+    "sourceUrl": "https://github.com/DandunAdi/warung-bungsu",
+    "thumbnail": {
+      "url": "/uploads/bungsu.jpg"
+    },
+    "tags": [
+      {
+        "id": 1,
+        "title": "WEB DEVELOPMENT"
+      },
+      {
+        "id": 2,
+        "title": "REACT"
+      },
+      {
+        "id": 3,
+        "title": "FRAMER MOTION"
+      }
+    ],
+    "techStack": [
+      {
+        "id": 1,
+        "name": "REACT"
+      },
+      {
+        "id": 2,
+        "name": "CSS GRID & FLEXBOX"
+      },
+      {
+        "id": 3,
+        "name": "FRAMER MOTION"
+      },
+      {
+        "id": 4,
+        "name": "REACT SCROLL"
+      }
+    ]
+  }
+]
