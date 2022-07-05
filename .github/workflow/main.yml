@@ -1,8 +1,8 @@
 on: push
-name: 🚀 Deploy:ReactJS
+name: 🚀 Deploy:Porto-Donni
 jobs:
   web-deploy:
-    if: ${{ github.ref == 'refs/heads/main' }}
+    if: ${{ github.ref == 'refs/heads/master' }}
     name: 🎉 Deploying...
     runs-on: ubuntu-latest
     steps:
@@ -22,10 +22,10 @@ jobs:
         run: |
           npm install
 
-      - name: 🎯 Test...
-        run: npm run test
-        env:
-          CI: true
+      # - name: 🎯 Test...
+      #   run: npm run test
+      #   env:
+      #     CI: true
 
       - name: ⚒️ Build
         run: |
