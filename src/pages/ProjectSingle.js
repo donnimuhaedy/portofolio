@@ -22,7 +22,7 @@ const ProjectSingle = ({ posts }) => {
             post && ( < motion.article variants = { postVariants } >
                 <div className = "ProjectSingle-body grid" >
                 <h1 className = "lg my-1" > { post.title } </h1>  
-                <ReactMarkdown > { post.intro + post.body} </ReactMarkdown>
+                <ReactMarkdown > { post.intro } </ReactMarkdown>
                 <aside className = "ProjectSingle-sideList sm" > {
                     post.techStack && ( 
                     <SideList title = "TECH STACK"
